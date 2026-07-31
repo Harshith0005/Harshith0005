@@ -1,7 +1,7 @@
 # Hi, I'm T.N.V. Harshith
 
 Computer Science Undergraduate | IIITDM Kurnool
-Machine Learning | Computer Vision | Software Development
+| Machine Learning | Computer Vision | Software Development
 
 ---
 
