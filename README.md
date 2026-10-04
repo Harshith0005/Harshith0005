@@ -1,97 +1,160 @@
-# Hi, I'm T.N.V. Harshith
+# Hi, I'm T.N.V. Harshith 👋
 
-Computer Science Undergraduate | IIITDM Kurnool
-| Machine Learning | Computer Vision | Software Development
+**AI / Machine Learning Engineer | Computer Science Graduate | ML Researcher**
 
----
+I build **machine learning and AI systems in Python**, with interests spanning **Graph Neural Networks, Computer Vision, 3D data, and AI/LLM applications**.
 
-## About Me
-
-I am a Computer Science undergraduate at IIITDM Kurnool with experience in machine learning, computer vision, and full-stack development. I enjoy building practical systems that solve real-world problems and I focus on writing software that is both useful and deployable.
-
-My work includes research in interpretable graph neural networks for Blood-Brain Barrier permeability prediction, along with hands-on projects in fintech, computer vision, and IoT.
+My work combines applied engineering with research. I have worked on **interpretable Graph Neural Networks for Blood-Brain Barrier permeability prediction**, 3D point-cloud and computer-vision systems, and practical AI-powered applications.
 
 ---
 
-## Machine Learning Research
+## 🔬 Featured Research
 
-### GeoXP-Explainer — Blood-Brain Barrier Permeability Prediction
+### GeoXP-Explainer — Interpretable GNN for BBB Permeability Prediction
 
-I proposed **GeoXP-Explainer**, an interpretable Graph Neural Network framework for Blood-Brain Barrier (BBB) permeability prediction of molecules.
+**Python • PyTorch • Graph Neural Networks • Molecular Graphs**
 
-* Achieved **93.17% accuracy**, **97.45% recall**, and **95.63% F1-score**
-* Outperformed **MLP**, **GCN**, and **GIN** baselines
-* Compared **5 architectures** on molecular graph datasets
-* Focused on the tradeoff between **performance and interpretability** in drug discovery pipelines
+GeoXP-Explainer is an interpretable Graph Neural Network framework developed for predicting **Blood-Brain Barrier (BBB) permeability** of molecules.
 
-This research was submitted to **BDA 2026** and is currently under review.
+- Evaluated **5 GNN architectures** on molecular graph datasets
+- Compared performance against **MLP, GCN, and GIN** baselines
+- Achieved **93.17% accuracy, 97.45% recall, and 95.63% F1-score** on the evaluated task
+- Focused on improving the balance between **predictive performance and model interpretability**
+- Presented the research at **Big Data & Artificial Intelligence 2026 (BDA 2026), BITS Pilani – K K Birla Goa Campus**
+
+📄 **Paper:** GeoXP-Explainer: An Interpretable Graph Neural Network Framework for Blood-Brain Barrier Permeability Prediction
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### Kubera — AI-Powered Personal Finance Platform
+### 💰 Kubera — AI-Powered Personal Finance Platform
 
 **Next.js • TypeScript • Firebase • Tailwind CSS**
 
-* Built and deployed a full-stack personal finance platform with expense tracking, investment management, budget analytics, and AI-based financial insights
-* Implemented authentication, Firestore integration, secure rules, and real-time dashboard analytics
-* Deployed the application on Firebase Hosting
+A full-stack personal finance platform combining financial tracking with AI-powered insights.
 
-### H3 - PSNET
-
-**Python • OpenCV • NumPy • MeshLab**
-
-* Developed a computer vision pipeline for estimating the volume of irregular 3D objects
-* Used contour detection, edge extraction, and depth-based 3D reconstruction
-* Built camera calibration and depth-mapping modules for practical measurement workflows
-
-### IoT Smart Plant Monitoring System
-
-**Arduino • NodeMCU • C++ • Cloud**
-
-* Built an automated irrigation and plant monitoring system using soil moisture sensors
-* Implemented cloud-based logging and threshold-based alerts
-* Reduced water consumption through sensor-driven automation
+- Expense and investment tracking
+- Budget analytics and financial dashboards
+- Authentication and Firestore integration
+- Real-time data-driven dashboards
+- AI-assisted financial insights
+- Deployed using Firebase Hosting
 
 ---
 
-## Technical Skills
+### 🧠 3D Point Cloud Classification & Segmentation
 
-**Languages:** Python, TypeScript, JavaScript, Kotlin, C, C++
-**Web Development:** Next.js, React, Tailwind CSS, Firebase, HTML, CSS
-**AI / ML / CV:** Graph Neural Networks, OpenCV, LiDAR Processing, Volumetric Analysis, scikit-learn
-**Databases:** MySQL, SQLite, Firestore, SQL Query Optimization, BMQL
-**Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Android Studio, Linux (Ubuntu)
+**Python • Deep Learning • PointNet++ • LiDAR • 3D Data**
+
+Deep-learning workflows for understanding and classifying 3D point-cloud data.
+
+- Point-cloud preprocessing and feature extraction
+- 3D object classification
+- Point-level semantic segmentation
+- Experimentation with PointNet++ architectures
+- Applications involving LiDAR and 3D spatial data
 
 ---
 
-## Education
+### 📐 H3-PSNET — 3D Object Volume Estimation
+
+**Python • OpenCV • NumPy • MeshLab • Computer Vision**
+
+A computer-vision pipeline for estimating the volume of irregular 3D objects.
+
+- Contour and edge detection
+- Depth-based 3D reconstruction
+- Camera calibration
+- Depth mapping
+- 3D mesh processing
+- Practical volumetric measurement workflows
+
+---
+
+### 🌱 IoT Smart Plant Monitoring System
+
+**Arduino • NodeMCU • C++ • Sensors • Cloud**
+
+An automated plant monitoring and irrigation system using sensor-driven decision making.
+
+- Soil-moisture monitoring
+- Automated irrigation
+- Cloud-based data logging
+- Threshold-based alerts
+- Sensor-driven water management
+
+---
+
+## 🛠️ Technical Skills
+
+### AI / Machine Learning
+`Machine Learning` `Deep Learning` `Graph Neural Networks` `Computer Vision` `LiDAR Processing` `3D Point Clouds` `scikit-learn` `PyTorch`
+
+### Programming
+`Python` `SQL` `C++` `C` `JavaScript` `TypeScript`
+
+### Data & Scientific Computing
+`NumPy` `Pandas` `OpenCV` `Data Analysis` `Data Preprocessing`
+
+### Web & Application Development
+`Next.js` `React` `Tailwind CSS` `Firebase`
+
+### Databases & Tools
+`MySQL` `SQLite` `Firestore` `Git` `GitHub` `Linux`
+
+---
+
+## 🎓 Education
 
 **Indian Institute of Information Technology Design and Manufacturing (IIITDM), Kurnool**
-Bachelor of Technology in Computer Science and Engineering
-Nov 2022 – Jun 2026
 
-Relevant Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, OOPs
+**Bachelor of Technology — Computer Science and Engineering**  
+2022 – 2026
 
----
+Relevant Coursework:
 
-## Certifications
-
-* Introduction to Generative AI and Agents — Microsoft
-* Planetary Scale Earth Observation with Google Earth Engine — Google
-* Google Analytics Certification — United Latino Students Association
-* Introduction to Generative AI — Google Cloud Skills Boost
-* MLOps for Generative AI — Google Cloud
-* Artificial Intelligence in Agriculture — ICAR-NAARM
-* AIML for Geodata Analysis — ISRO
-* Completion Award — Indo-Dutch Cyber Security School
+`Data Structures & Algorithms` · `Machine Learning` · `DBMS` · `Operating Systems` · `Computer Networks` · `Object-Oriented Programming`
 
 ---
 
-## Connect With Me
+## 📜 Certifications
 
-Email: [tharshith93901@gmail.com](mailto:tharshith93901@gmail.com)
-LinkedIn: https://linkedin.com/in/harshithtnv
-GitHub: https://github.com/Harshith0005
-Portfolio: https://tnv-harshith-portfolio.web.app/
+- **Oracle Fusion Cloud Applications HCM Process Essentials Certified — Rel 1**
+- Introduction to Generative AI and Agents — Microsoft
+- MLOps for Generative AI — Google Cloud
+- Introduction to Generative AI — Google Cloud
+- AI/ML for Geodata Analysis — ISRO
+- Artificial Intelligence in Agriculture — ICAR-NAARM
+- Planetary Scale Earth Observation with Google Earth Engine — Google
+
+---
+
+## 📚 Research & Interests
+
+I'm particularly interested in:
+
+- Machine Learning & Deep Learning
+- Graph Neural Networks
+- Explainable / Interpretable AI
+- Computer Vision
+- 3D Vision & LiDAR
+- AI Agents & LLM Applications
+- ML Engineering / MLOps
+- AI for Scientific and Real-World Applications
+
+---
+
+## 🤝 Connect
+
+📧 **Email:** [tharshith93901@gmail.com](mailto:tharshith93901@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/harshithtnv](https://linkedin.com/in/harshithtnv)
+
+🌐 **Portfolio:** [tnv-harshith-portfolio.web.app](https://tnv-harshith-portfolio.web.app/)
+
+---
+
+### ⭐ Explore my repositories
+
+If you're interested in my work, check out my **pinned repositories** below for research implementations, machine-learning projects, and software projects.
